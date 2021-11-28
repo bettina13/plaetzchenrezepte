@@ -39,3 +39,6 @@ Aus dem Teig fingerdicke Rollen formen und diese in ca. 5 cm lange Stücke schne
 
 Wenn die Kipferl aus dem Ofen kommen sofort im heißen Zustand in dem Vanillezucker wälzen. Anschließend zum Abkühlen auf ein Gitter legen.
 
+***
+
+_Rezept von Bettina Mader_
