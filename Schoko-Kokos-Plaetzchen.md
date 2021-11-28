@@ -1,6 +1,6 @@
-# Schoko-Kokos-Plätzchen
+<img src="Bilder/Schoko-Kokos-Plaetzchen.jpg" width="300" align="right">
 
-![Schoko-Kokos-Plätzchenbild](/Bilder/Schoko-Kokos-Plaetzchen.jpg)
+# Schoko-Kokos-Plätzchen
 
 ## Teig herstellen
 
