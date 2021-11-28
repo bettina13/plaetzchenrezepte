@@ -35,3 +35,6 @@ Sollte der Teig beim ausrollen und Formen stechen zu "klebrig" werden, kann man 
 
 Die Plätzchen zum Abkühlen auf ein Gitter legen. Wenn man möchte, kann man die Plätzchen noch mit Schokokuvertüre verzieren.
 
+***
+
+_Rezept von Bettina Mader_
