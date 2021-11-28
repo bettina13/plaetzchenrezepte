@@ -1,5 +1,7 @@
 # Schoko-Kokos-Plätzchen
 
+![Schoko-Kokos-Plätzchenbild](/Bilder/Schoko-Kokos-Plaetzchen.jpg)
+
 ## Teig herstellen
 
 * 50g Zartbitter-Schokolade

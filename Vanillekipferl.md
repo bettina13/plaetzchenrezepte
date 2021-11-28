@@ -1,5 +1,7 @@
 # Vanillekipferl
 
+![Vanillekipferlbild](/Bilder/Vanillekipferl.jpg)
+
 ## Teig herstellen
 
 * 250g Mehl
