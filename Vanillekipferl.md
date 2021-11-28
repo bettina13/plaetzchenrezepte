@@ -1,6 +1,6 @@
-# Vanillekipferl
+<img src="/Bilder/Vanillekipferl.jpg" width="300" align="right">
 
-![Vanillekipferlbild](/Bilder/Vanillekipferl.jpg)
+# Vanillekipferl
 
 ## Teig herstellen
 
