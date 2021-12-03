@@ -1,6 +1,6 @@
 # Plaetzchenrezepte von Bettina
 
-[Haferflockenplätzchen] (/Haferflockenplaetzchen.md)
+[Haferflockenplätzchen](/Haferflockenplaetzchen.md)
 
 [Schoko-Kokos-Plätzchen](/Schoko-Kokos-Plaetzchen.md)
 
