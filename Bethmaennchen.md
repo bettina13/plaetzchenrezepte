@@ -41,4 +41,4 @@ Die Bethmännchen sind gut, wenn die Oberfläche goldfarben ist. Die fertigen Be
 
 ***
 
-_Rezept von Bettina Mader_
+_Rezept von Bettina_

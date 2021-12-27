@@ -37,4 +37,4 @@ Die Plätzchen zum Abkühlen auf ein Gitter legen. Wenn man möchte, kann man di
 
 ***
 
-_Rezept von Bettina Mader_
+_Rezept von Bettina_

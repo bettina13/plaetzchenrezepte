@@ -41,4 +41,4 @@ Nun werden die Plätzchen zusammengesetzt. Die ganzen Herzen mit etwas erwärmte
 
 ***
 
-_Rezept von Bettina Mader_
+_Rezept von Bettina_

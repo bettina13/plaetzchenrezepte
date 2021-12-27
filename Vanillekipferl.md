@@ -41,4 +41,4 @@ Wenn die Kipferl aus dem Ofen kommen sofort im heißen Zustand in dem Vanillezuc
 
 ***
 
-_Rezept von Bettina Mader_
+_Rezept von Bettina_

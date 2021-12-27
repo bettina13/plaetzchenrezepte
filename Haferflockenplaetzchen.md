@@ -40,4 +40,4 @@ Nach dem Backen die Plätzchen gleich vom Blech nehmen und zum Abkühlen auf ein
 
 ***
 
-_Rezept von Bettina Mader_
+_Rezept von Bettina_
