@@ -2,6 +2,8 @@
 
 [Bethmännchen](/Bethmaennchen.md)
 
+[Butterplätzchen](/Butterplaetzchen.md)
+
 [Haferflockenplätzchen](/Haferflockenplaetzchen.md)
 
 [Schmandherzen](/Schmandherzen.md)
