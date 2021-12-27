@@ -1,44 +1,38 @@
-<img src="/Bilder/Vanillekipferl.jpg" width="300" align="right">
+<img src="/Bilder/Butterplaetzchen.jpg" width="300" align="right">
 
-# Vanillekipferl
+# Butterplätzchen
 
 ## Teig herstellen
 
-* 250g Mehl
-* 2 Päckchen Vanillezucker
-* 75g Puderzucker
+* 500g Mehl
+* 1 Päckchen Vanillezucker
+* 200g Zucker
 * 1 Prise Salz
-* 100g gemahlene Mandeln
+* Zitronenschale
 
-Die trockenen Zutaten zunächst zusammen homogen in einer Schüssel vermischen. Das Mehl und der Puderzucker sollte dafür auf jeden Fall gesiebt werden. Das vermeidet Klümpchenbildung.
+Die trockenen Zutaten zunächst zusammen homogen in einer Schüssel vermischen. Das Mehl sollte dafür auf jeden Fall gesiebt werden. Das vermeidet Klümpchenbildung.
 
-* 200g Butter
+* 350g Butter
+* 1 ganzes Ei
+* 2 Eigelb
 
-Die Butter sollte nicht mehr ganz kalt sein, aber auch nicht zu weich. In kleine Flocken geschnitten in die trockene Mischung geben und dann erst mit einem Rührgerät und Knethaken, später von Hand zu einem glatten Teig verkneten. Den Teigklumpen in Folie einwickeln und mind. 30 min im Kühlschrank kühlen.
+Die Butter sollte nicht mehr ganz kalt sein, aber auch nicht zu weich. In kleine Flocken geschnitten in die trockene Mischung geben. Das Ei und die Eigelb noch zugeben und dann erst mit einem Rührgerät und Knethaken, später von Hand zu einem glatten Teig verkneten. Den Teigklumpen in Folie einwickeln und mind. 1 Stunde im Kühlschrank kühlen.
 
 **Hinweis:** der Teig lässt sich wunderbar vorbereiten und kann auch länger im Kühlschrank verweilen, bis man Zeit für das Formen und Backen hat.
 
-## Vanillezucker vorbereiten
+## Plätzchen ausstechen
 
-* 2 Vanilleschoten
-* 100g Zucker
-
-Für richtig gute Vanillekipferl MÜSSEN wir gescheiten Vanillezucker nehmen. Diesen machen wir selbst, indem wir die zwei Vanilleschoten längs aufschlitzen, das Mark herausstreichen und mit dem Zucker gut vermischen.
-
-**Hinweis**: Auch die Schalen der Schote können wir in dem Zucker einlegen und mitziehen lassen. Am besten bereitet man den Vanillezucker einen Tag vorher in einer Dose zu und schüttelt diese gelegentlich durch, damit sich die Aromen gut verteilen.
-
-## Kipferl formen
-
-Aus dem Teig fingerdicke Rollen formen und diese in ca. 5 cm lange Stücke schneiden. Diese zu Kipferl formen und auf das mit Backpapier bestückte Backblech auslegen.
+Den Teig auf einer bemehlten Unterlage dünn ausrollen und dann mit Plätzchenformen die Plätzchen ausstechen. Nach Wunsch können die Plätzchen noch dekoriert oder mit Marmelade bestrichen werden. Mache bestreichen sie auch noch mit einem Eigelb.
+Ich persönlich lasse sie am liebsten einfach undekoriert.
 
 ## Backen
 
 * Ofen vorheizen
-* 160° Umluft oder 180° Ober-/Unterhitze
-* pro Blech ca. 12 Minuten
+* 175° Ober-/Unterhitze
+* pro Blech ca. 10-12 Minuten
 
-Wenn die Kipferl aus dem Ofen kommen sofort im heißen Zustand in dem Vanillezucker wälzen. Anschließend zum Abkühlen auf ein Gitter legen.
+Die Backzeit variiert ein wenig nach der Dicke der Plätzchen. Also im Blick behalten, dass sie nicht zu dunkel werden. Nach dem Backen zum Abkühlen auf ein Gitter legen.
 
 ***
 
-_Rezept von Bettina Mader_
+_Rezept von [jesusfreak](https://www.chefkoch.de/rezepte/660491167840930/Butterplaetzchen.html) nachgebacken von Bettina_
